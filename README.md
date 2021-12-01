@@ -1,5 +1,5 @@
 # Unity
-Learning the Unity engine through https://learn.unity.com/pathway/junior-programmer.
+Learning the Unity engine through the pathways they offer.
 
 ## Ambition
 I've recently finished the junior programming track which demanded months of my life and has set me up to understand the unity framework.
