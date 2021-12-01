@@ -1,5 +1,5 @@
 # Unity
-A game engine which support C# programming
+Learning the Unity engine through https://learn.unity.com/pathway/junior-programmer.
 
 ## Ambition
 I've recently finished the junior programming track which demanded months of my life and has set me up to understand the unity framework.
